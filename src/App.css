@@ -1,5 +1,11 @@
+
+
 .App {
   text-align: center;
+  height: 100vh;
+  background-color: black;
+  /* background-image: url('../src/assets/images//bgr.png'); */
+  background-position: center;
 }
 
 .App-logo {
